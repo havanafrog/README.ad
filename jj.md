@@ -11,7 +11,7 @@ library(Gifi)
 
     ## Warning: 패키지 'Gifi'는 R 버전 4.1.3에서 작성되었습니다
 
-[blog](havanfrog.github.io)
+[blog](http://havanafrog.github.io)
 
 ``` r
 sleeping <- read.csv("sleeping.csv")
