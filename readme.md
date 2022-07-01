@@ -44,6 +44,11 @@ mainly used R.
     -   Python
 
     -   sql
+### 🎲 Study
+
+**Optimal scoring based mixture modeling for ordinal data**
+
+> Real data may be mixed data that is a combination of continuous,ordinal, nominal variables. When we start clustering, it is necessary to understand the characteristics of data. In this paper, we conduct clustering according to the latent variable form of the given data. To do so, we will estimate optimal scores for ordinal variables by minimizing the loss function of PCA. Then, with a difference from the most representative model based clustering methods, Mclust and ClustMD, we propose a new clustering algorithm to overcome their disadvantages. Through numerical study, we compare their performances in accuracy and computing time when the label is known. Finally, we apply the new method to a real data, Byar data.
 
 ### **🌅 summary**
 
