@@ -54,4 +54,4 @@ mainly used R.
 ### **🌅 summary**
 
 -   If you want to know more detail about project, my study and what I
-    studied, press the Link [“havanafrog”](http://havanafrog.github.io)
+    studied, press the Link [“havanafrog”](https://velog.io/@havanafrog)
