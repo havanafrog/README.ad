@@ -44,7 +44,7 @@ mainly used R.
     -   Python
 
     -   sql
-### 🎲 Study
+### 🎲 Paper
 
  **Optimal scoring based mixture modeling for ordinal data**
 
